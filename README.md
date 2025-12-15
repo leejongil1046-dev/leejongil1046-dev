@@ -44,5 +44,6 @@
 
 ## 📫 Contact
 
-### Email: leejongil1046.dev@gamil.com
-### Resume: https://leejongil1046.oopy.io
+**Email**: leejongil1046.dev@gamil.com
+<br>
+**Resume**: https://leejongil1046.oopy.io
