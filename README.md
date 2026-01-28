@@ -1,6 +1,6 @@
 ## 🌐 Web Developer
 ![Frontend Developer](https://img.shields.io/badge/Frontend%20Developer-%231E90FF?style=for-the-badge&logo=react&logoColor=white)
-https://github.com/leejongil1046-dev/leejongil1046-dev/blob/main/README.md
+<br>
 <br>
 
 ## 🚀 Tech Stack
