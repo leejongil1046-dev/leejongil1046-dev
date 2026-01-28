@@ -1,6 +1,6 @@
 ## 🌐 Web Developer
 ![Frontend Developer](https://img.shields.io/badge/Frontend%20Developer-%231E90FF?style=for-the-badge&logo=react&logoColor=white)
-
+https://github.com/leejongil1046-dev/leejongil1046-dev/blob/main/README.md
 <br>
 
 ## 🚀 Tech Stack
@@ -46,4 +46,10 @@
 
 **Email**: leejongil1046.dev@gamil.com
 <br>
-**Resume**: https://leejongil1046.oopy.io
+**Portfolio**: https://leejongil1046.oopy.io
+
+<br>
+<br>
+※ GitHub 계정 안내  
+대학 프로젝트 및 수상 당시에는 다른 GitHub 계정을 사용했으며,  
+현재는 보안 이슈로 새로운 계정에서 이력을 관리하고 있습니다.
