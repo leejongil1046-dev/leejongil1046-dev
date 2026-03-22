@@ -1,5 +1,7 @@
-## 🌐 Web Developer
+## 🌐 Frontend & App Developer
 ![Frontend Developer](https://img.shields.io/badge/Frontend%20Developer-%231E90FF?style=for-the-badge&logo=react&logoColor=white)
+![App Developer](https://img.shields.io/badge/App%20Developer-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 <br>
 <br>
 
@@ -14,8 +16,12 @@
 ### Frameworks & Libraries
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+![react-native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![zustand](https://img.shields.io/badge/Zustand-18181B?style=for-the-badge&logo=react&logoColor=white)
+
+### Currently Learning
+![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
 <br>
@@ -46,7 +52,7 @@
 
 ## 📫 Contact
 
-**Email**: leejongil1046.dev@gamil.com
+**Email**: leejongil1046.dev@gmail.com
 <br>
 **Portfolio**: https://leejongil1046.oopy.io
 
