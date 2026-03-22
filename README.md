@@ -19,6 +19,9 @@
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![zustand](https://img.shields.io/badge/Zustand-18181B?style=for-the-badge&logo=react&logoColor=white)
 
+### Database
+![sqlite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ### Currently Learning
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
