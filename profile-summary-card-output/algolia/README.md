@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/leejongil1046-dev/leejongil1046-dev/main/profile-summary-card-output/algolia/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/leejongil1046-dev/leejongil1046-dev/main/profile-summary-card-output/algolia/4-productive-time.svg)
-```
-
-    
